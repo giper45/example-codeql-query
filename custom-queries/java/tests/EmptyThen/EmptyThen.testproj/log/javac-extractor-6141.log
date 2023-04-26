@@ -1,0 +1,10 @@
+[2023-04-26 08:59:39] [javac-extractor-6141] Starting extraction for:
+                                             sun.java.command=com.semmle.extractor.java.JavaExtractor --javacOptions -source 8 --strict-javac-errors --encoding UTF-8 --files Test.java
+                                             user.dir=/Users/gx1/git/personal/example-codeql-query/custom-queries/java/tests/EmptyThen
+[2023-04-26 08:59:39] [javac-extractor-6141] Compilation name /Users/gx1/git/personal/example-codeql-query/custom-queries/java/tests/EmptyThen/EmptyThen.testproj/trap/java/diagnostics/diagnostic.trap.gz
+[2023-04-26 08:59:40] [javac-extractor-6141] Processing file Test.java
+[2023-04-26 08:59:43] [javac-extractor-6141] Javac init time: 0.7s
+[2023-04-26 08:59:43] [javac-extractor-6141] Javac attr time: 0.1s
+[2023-04-26 08:59:43] [javac-extractor-6141] Extractor time: 3.0s
+[2023-04-26 08:59:43] [javac-extractor-6141] Other time: 0.2s
+[2023-04-26 08:59:43] [javac-extractor-6141] Total time: 4.0s

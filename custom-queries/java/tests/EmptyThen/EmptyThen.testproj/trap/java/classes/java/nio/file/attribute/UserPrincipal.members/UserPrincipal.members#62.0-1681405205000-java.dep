@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes/java/nio/file/attribute/UserPrincipal.members/UserPrincipal.members#62.0-1681405205000-java.trap.gz
+
+TRAPS
+classes/java/nio/file/attribute/UserPrincipal.members.trap.gz
+classes/java/security/Principal.members.trap.gz
